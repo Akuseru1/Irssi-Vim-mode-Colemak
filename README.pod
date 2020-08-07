@@ -6,7 +6,9 @@ vim_mode.pl
 
 =head1 DESCRIPTION
 
-An Irssi script to emulate some of the vi(m) features for the Irssi inputline.
+An Irssi script to emulate some of the vi(m) features for the Irssi inputline using basic colemak keybindings.
+
+see the original repo: https://github.com/shabble/irssi-scripts/tree/master/vim-mode
 
 =head1 INSTALLATION
 
